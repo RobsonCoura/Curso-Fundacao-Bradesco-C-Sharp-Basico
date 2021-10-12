@@ -1,0 +1,10 @@
+F:\HD_SEAGATE_PARTE1\CURSO FUNDAÇÃO BRADESCO\CURSOS\C#BASICO\Visão Geral Do C#\Visual Studio\PrjCadastro\PrjCadastro\bin\Debug\PrjCadastro.exe.config
+F:\HD_SEAGATE_PARTE1\CURSO FUNDAÇÃO BRADESCO\CURSOS\C#BASICO\Visão Geral Do C#\Visual Studio\PrjCadastro\PrjCadastro\bin\Debug\PrjCadastro.exe
+F:\HD_SEAGATE_PARTE1\CURSO FUNDAÇÃO BRADESCO\CURSOS\C#BASICO\Visão Geral Do C#\Visual Studio\PrjCadastro\PrjCadastro\bin\Debug\PrjCadastro.pdb
+F:\HD_SEAGATE_PARTE1\CURSO FUNDAÇÃO BRADESCO\CURSOS\C#BASICO\Visão Geral Do C#\Visual Studio\PrjCadastro\PrjCadastro\obj\Debug\PrjCadastro.csprojAssemblyReference.cache
+F:\HD_SEAGATE_PARTE1\CURSO FUNDAÇÃO BRADESCO\CURSOS\C#BASICO\Visão Geral Do C#\Visual Studio\PrjCadastro\PrjCadastro\obj\Debug\PrjCadastro.Form1.resources
+F:\HD_SEAGATE_PARTE1\CURSO FUNDAÇÃO BRADESCO\CURSOS\C#BASICO\Visão Geral Do C#\Visual Studio\PrjCadastro\PrjCadastro\obj\Debug\PrjCadastro.Properties.Resources.resources
+F:\HD_SEAGATE_PARTE1\CURSO FUNDAÇÃO BRADESCO\CURSOS\C#BASICO\Visão Geral Do C#\Visual Studio\PrjCadastro\PrjCadastro\obj\Debug\PrjCadastro.csproj.GenerateResource.cache
+F:\HD_SEAGATE_PARTE1\CURSO FUNDAÇÃO BRADESCO\CURSOS\C#BASICO\Visão Geral Do C#\Visual Studio\PrjCadastro\PrjCadastro\obj\Debug\PrjCadastro.csproj.CoreCompileInputs.cache
+F:\HD_SEAGATE_PARTE1\CURSO FUNDAÇÃO BRADESCO\CURSOS\C#BASICO\Visão Geral Do C#\Visual Studio\PrjCadastro\PrjCadastro\obj\Debug\PrjCadastro.exe
+F:\HD_SEAGATE_PARTE1\CURSO FUNDAÇÃO BRADESCO\CURSOS\C#BASICO\Visão Geral Do C#\Visual Studio\PrjCadastro\PrjCadastro\obj\Debug\PrjCadastro.pdb
